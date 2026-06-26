@@ -1,62 +1,29 @@
-
 <div align="center">
 
-# MARLINSPIKEE
-
-`// unauthorized access is illegal. this account documents what's already public.`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=ghost+in+the+wire.;OSINT+%C2%B7+DFIR+%C2%B7+Threat+Analysis" alt="Typing SVG" />
 
 </div>
 
 ---
 
-```bash
-$ whoami
-marlinspike — ghost in the wire
+### `ssh marlinspikee@[REDACTED]`
 
-$ cat /etc/identity
-  role     : vigilant observer
-  origin   : [CLASSIFIED]
-  status   : operational
-  ip       : you won't find it
-```
+Hello, I'm **marlinspikee**, a vigilant observer in the digital shadows. I document what's already public, analyze what others miss, and build detection logic that catches the invisible.
 
----
+I'm obsessed with **OSINT**, **malware analysis**, and **threat hunting**. I believe a finding without a timeline and a recommendation is unfinished work. Every investigation is a story — evidence, patterns, context, lessons. I approach research the way hunters track — methodical, thorough, relentless.
 
-**// skill tree**
+I live in the space between **detection and deception**. I study threat actors, reverse engineer their tools, hunt their traces across networks and logs. I compete on **HackTheBox**, **TryHackMe**, and **CyberDefenders** because understanding attacks is how you defend against them.
 
-![OSINT](https://img.shields.io/badge/OSINT-red?style=flat-square&logo=target&logoColor=white)
-![Network Recon](https://img.shields.io/badge/Network_Recon-red?style=flat-square)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-red?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-yellow?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-yellow?style=flat-square)
-![CTF](https://img.shields.io/badge/CTF-blue?style=flat-square)
-![Forensics](https://img.shields.io/badge/Forensics-blue?style=flat-square)
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-green?style=flat-square)
-![DFIR](https://img.shields.io/badge/DFIR-green?style=flat-square)
+I speak **Python**, **Bash**, and **detection rules**. Currently building autonomous threat triage systems — letting machines do what they're good at, humans do what only they can.
 
----
+- 🔍 [Threat Research & Writeups](https://marlinspikee.github.io)
+- 💻 [Code & Tools (**GitHub**)](https://github.com/marlinspikee)
+- 🎯 [HackTheBox — Breaking Systems](https://hackthebox.com)
+- 📚 [TryHackMe — Hands-on Threat Emulation](https://tryhackme.com)
+- 🛡️ [CyberDefenders — DFIR Lab](https://cyberdefenders.org)
+- 🐛 [Responsible Disclosure (**Bugcrowd**)](https://bugcrowd.com)
+- 🔐 [Security Research (**HackerOne**)](https://hackerone.com)
 
-**// current operation**
+Do not forget to check the research and writeups below 👇🏻
 
-| | |
-|---|---|
-| codename | `PROJECT WATCHER` |
-| stack | Wazuh · Docker · Groq API |
-| objective | autonomous threat triage |
-| status | ▶ in progress |
-
----
-
-**// philosophy**
-
-> *"a finding without a timeline and a recommendation is unfinished work."*
-
----
-
-<div align="center">
-
-**find me // if you can**
-
-[HackTheBox](https://hackthebox.com) · [TryHackMe](https://tryhackme.com) · [CyberDefenders](https://cyberdefenders.org) · [Bugcrowd](https://bugcrowd.com) · [HackerOne](https://hackerone.com)
-
-</div>
+> P.S. To connect with this account, understand its methodology first. OPSEC is not paranoia — it's operational security. Everything here is public domain, documented, and deliberate. 🛡️
